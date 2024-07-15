@@ -1,4 +1,4 @@
-package com.wesleybertipaglia.gof.behavior;
+package com.wesleybertipaglia.gof.structure;
 
 public class Adapter {
     public static void main(String[] args) {
